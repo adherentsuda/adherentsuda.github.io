@@ -16,7 +16,8 @@
   </tr>
 </table>
 
-
+#### Paper：
+- 基于联合学习的问答情感分类方法 安明慧，沈忱林，李寿山
 
 #### Master, 09/2018- Present Soochow University
 
