@@ -9,7 +9,7 @@
 
 #### Master, 09/2018- Present Soochow University
 
-<font color=#000000 size=7 face="黑体">- Natural Language Processing Lab，Soochow University，SuZhou, China</font>
+- Natural Language Processing Lab，Soochow University，SuZhou, China
 
 #### Bachelor, 09/2014- 07/2018 Huaiyin Normal University
 
