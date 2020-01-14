@@ -11,7 +11,7 @@
        <p><b>School： School of Computer Science and Technology ， Soochow University，SuZhou, China</b></p>      
     </td>
     <td width="25%">
-      <img src="/DF5A775E-A9A3-49AC-B98B-E2212AC3D2D0.JPG" width="100%">      % 插入证件照代码
+      <img src="/DF5A775E-A9A3-49AC-B98B-E2212AC3D2D0.JPG" width="100%">
     </td>
   </tr>
 </table>
