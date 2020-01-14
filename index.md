@@ -6,7 +6,7 @@
     <td width="75%">
       <h1>Name: Minghui An</h1>
       <p><b>Birth: 27 April, 1997</b></p>
-       <p><b>Email: 20185227082@stu.suda.edu.cn</b></p>
+       <p><b>Email: mhan@stu.suda.edu.cn</b></p>
        <p><b>Research status： Sentiment Analysis NLP</b></p>
        <p><b>School： School of Computer Science and Technology ， Soochow University，SuZhou, China</b></p>      
     </td>
